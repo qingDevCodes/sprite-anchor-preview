@@ -6,6 +6,8 @@
 
 ![在 Chrome 中运行的中文试玩版](sprite-anchor-preview-zh.png)
 
+Sprite Anchor 已入驻[爱发电](https://afdian.com/a/spriteanchor)，付费商品待上线。
+
 完整版可导出自定义 PNG 和 JSON，每张精灵图最多 64 帧。中国大陆拟一次性售价 **¥19.90**，付费销售待上线。
 
 **[登记 ¥19.90 购买意向](https://github.com/qingDevCodes/sprite-anchor-preview/issues/new?title=%E6%84%BF%E6%84%8F%E4%BB%A5%20%C2%A519.90%20%E8%B4%AD%E4%B9%B0%20Sprite%20Anchor)**。登记会创建公开 Issue，无需付款。也欢迎单独反馈使用问题，填写浏览器、帧数和期待的效果即可。
