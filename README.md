@@ -1,17 +1,13 @@
-# Sprite Anchor Preview
+# Sprite Anchor 动画帧对齐工具
 
-Sprite Anchor aligns transparent PNG animation frames to a shared baseline, so uneven transparent margins do not make a walk cycle jump.
+把画布大小和透明边距各异的 PNG 动画帧对齐到统一脚底线，减少动画播放时因画布对齐造成的上下抖动。
 
-**[Download the free preview](https://github.com/qingDevCodes/sprite-anchor-preview/releases/download/v0.1.0/sprite-anchor-preview.html)** and open the HTML file in Chrome. Select **Try sample** to preview a walk cycle and export its PNG sprite sheet. Or open up to eight of your own transparent PNGs and inspect their alignment. Frame processing stays on your device.
+**[下载中文试玩版](https://github.com/qingDevCodes/sprite-anchor-preview/releases/download/v0.1.1/sprite-anchor-preview-zh.html)**，直接用 Chrome 打开 HTML。选择**试用样例**即可播放动画和导出样例精灵图，也可以导入最多 8 张自定义 PNG 检查对齐效果。图片在本机处理。
 
-![Sprite Anchor running the built-in sample in Chrome](sprite-anchor-preview.png)
+![在 Chrome 中运行的中文试玩版](sprite-anchor-preview-zh.png)
 
-## Full edition
+完整版可导出自定义 PNG 和 JSON，每张精灵图最多 64 帧。中国大陆拟一次性售价 **¥19.90**，付费销售待上线。
 
-The full edition adds custom PNG and JSON export and supports up to 64 frames per sheet. The proposed price is **US$7 one time**. Sales are pending.
+**[登记 ¥19.90 购买意向](https://github.com/qingDevCodes/sprite-anchor-preview/issues/new?title=%E6%84%BF%E6%84%8F%E4%BB%A5%20%C2%A519.90%20%E8%B4%AD%E4%B9%B0%20Sprite%20Anchor)**。登记会创建公开 Issue，无需付款。也欢迎单独反馈使用问题，填写浏览器、帧数和期待的效果即可。
 
-If you would buy it at that price, [register your interest in a public GitHub issue](https://github.com/qingDevCodes/sprite-anchor-preview/issues/new?title=Interested%20in%20Sprite%20Anchor%20at%20US%247&body=What%20would%20you%20use%20Sprite%20Anchor%20for%3F%0A). This records interest and takes no payment. Use a separate issue to report a problem, with your browser, frame count, approximate dimensions, and expected result. You can report it without attaching artwork.
-
-## 中文
-
-Sprite Anchor 可将透明 PNG 动画帧按可见像素底边对齐。下载 HTML 后用 Chrome 打开。免费版可导入最多 8 帧，并可导出内置样例的精灵图。完整版支持最多 64 帧，可导出自定义 PNG 和 JSON，拟一次性售价 7 美元，现可登记购买意向。
+[English preview](https://github.com/qingDevCodes/sprite-anchor-preview/releases/tag/v0.1.0)
